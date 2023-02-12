@@ -1,0 +1,6 @@
+docker images
+REPOSITORY                                                     TAG         IMAGE ID       CREATED         SIZE
+yourname/ubuntu-tmp-file                                       latest      aa4800bc3fcd   8 seconds ago   63.2MB
+
+Задание со *
+контейнер от образа отличается тем, что контейнер образ + в котором должно быть описано сетевое взаимодействие, лимиты если они есть по cpu/ram/disck, и I/O.
